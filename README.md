@@ -6,7 +6,7 @@
 <a href="https://twitter.com/b0red">
 <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/saket-prag-31b972157/">
+[<a href="https://www.linkedin.com/in/saket-prag-31b972157/">](https://www.linkedin.com/in/patrickosterlund/)
 <img align="left" alt="Patrick Osterlund" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@saketprag322">
@@ -21,12 +21,6 @@
 <br />
 
 <br />
-
-Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
 
 **Talking about Personal Stuffs:**
 
