@@ -18,7 +18,7 @@
 <img align="left" alt="mrakita" width=22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/500px.svg" />
 </a>
 
-<a href="facebook.com"/>
+<a href="https://facebook.com"/>
 <img align="left" alt="patrick osterlund" width=22px" src=" https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
 <br />
