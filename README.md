@@ -17,7 +17,8 @@
 <img align="left" alt="mrakita" width=22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/500px.svg" />
 </a>
 
-<a href="https://www.facebook.com/ffotosbypatrick"><img align="left" width=22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
+<a href="https://www.facebook.com/ffotosbypatrick">
+<img align="left" width=22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
 <br />
 
