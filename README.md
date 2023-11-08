@@ -23,11 +23,12 @@
 </a>
 <br />
 
+**Bio:**
+
 **Portfolio**
 
-
 **Cameras:**
-Nikon D800
-Nikon D7000
-Minolta
-Leica
+*Nikon D800
+*Nikon D7000
+*Minolta
+*Leica
